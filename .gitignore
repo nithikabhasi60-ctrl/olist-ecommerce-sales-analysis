@@ -1,3 +1,5 @@
    Data/
    clean/
    *.pbix
+/Data
+/clean
