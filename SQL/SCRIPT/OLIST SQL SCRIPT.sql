@@ -6,7 +6,7 @@ SELECT * FROM orders;
 SELECT * FROM CUSTOMERS;
 SELECT COUNT(*) FROM ORDERS;
 
-select * from usi;
+select * from usi join manu;
 
 -- orders in each status ---
 SELECT ORDER_STATUS, COUNT(*) AS TOTAL_ORDER
