@@ -39,7 +39,7 @@ Olist connects small businesses with customers across Brazil. This project analy
 
 ## Dashboard
 
-The Power BI file (.pbix) is not included because of its size. It is available on request.
+The Power BI file (.pbix) is too large for this repository. You can download it from [Google Drive](https://drive.google.com/file/d/1t6h5B2AJoSGJw1yF5LpUCjRc7cMXohCi/view?usp=sharing). Power BI Desktop is needed to open it.
 
 ### Page 1: Overview
 ![Overview](POWERBI/screenshots/page1_overview.png)
@@ -95,7 +95,7 @@ olist-ecommerce-sales-analysis/
 ├── PYTHON/            Python notebooks (data cleaning)
 ├── POWERBI/
 │   └── screenshots/   dashboard images
-│                      (Power BI file available on request)
+│                      (Power BI file: see the Google Drive link above)
 └── README.md
 
 The raw data is not included: download it from Kaggle (link above).
