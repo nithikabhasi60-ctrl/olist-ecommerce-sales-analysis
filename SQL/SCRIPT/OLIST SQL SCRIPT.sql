@@ -6,6 +6,8 @@ SELECT * FROM orders;
 SELECT * FROM CUSTOMERS;
 SELECT COUNT(*) FROM ORDERS;
 
+select * from usi;
+
 -- orders in each status ---
 SELECT ORDER_STATUS, COUNT(*) AS TOTAL_ORDER
 FROM ORDERS
